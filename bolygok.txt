@@ -1,0 +1,7 @@
+﻿Merkúr 77 222
+Vénusz 38 261
+Mars 55 401
+Jupiter 589 968
+Szaturnusz 1198 1655
+Uránusz 2583 3158
+Neptunusz 4308 4689
